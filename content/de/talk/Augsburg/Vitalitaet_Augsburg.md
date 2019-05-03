@@ -1,5 +1,5 @@
 +++
-title = "Vitality assessment"
+title = "Vitalitätsbeurteilung"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -14,32 +14,37 @@ publishDate = 2019-01-03T00:00:00
 authors = ["Steffen Rust"]
 
 # Location of event.
-location = "Augsburg, Germany"
+location = "Augsburg, Deutschland"
 
 # Name of event and optional event URL.
 event = "Deutsche Baumpflegetage"
 event_url = "https://www.forum-baumpflege.de"
 
 # Abstract. What's your talk about?
-abstract = "This study compares two contrasting methods
-to assess the vitality of old Fagus sylvatica and
-Acer pseudoplatanus quantitatively. One
-method is based on the architecture of the
-upper part of the crown, the other uses a wide
-range of parameters, most of them related to
-the trunk. Both use anordinal scale ranging
-from 0 (best) to 3 (worst). Both methods
-were equally fast, and their results were statistically
-highly significantly correlated, albeit
-with very large scatter. Vitality based on crown
-architecture was on average 1.5 grades worse
-and explained a third of the variation of the
-other method. Crown architecture should
-remain the basis of vitality assessment. In old
-trees, where the growth of crown and trunk
-can be de-coupled, a low vitality score should
-be adjusted when the trunk shows signs of
-vigorous growth."
+abstract = "Zwei Verfahren zur Beurteilung der Vitalität
+von Bäumen werden an Altbäumen verglichen.
+A. ROLOFF und U. WEIHS schätzten jeweils die
+Vitalität von 100 Berg-Ahornen und 47 Rot-
+Buchen ein. Der Zeitaufwand für beide Verfahren
+war ähnlich. Die Vitalitätsstufen der Bäume
+nach beiden Methoden hingen statistisch
+hoch signifikant, aber mit großer Streuung,
+zusammen. Dabei war die Einschätzung anhand
+der Kronenarchitektur im Mittel um 1,5
+Stufen schlechter. Die Vitalitätseinstufung von
+ROLOFF erklärte bereits ein Drittel der Streuung
+in der Einschätzung von Weihs. Die Kronenarchitektur
+sollte weiterhin die Basis der Vitalitätsbeurteilung
+sein, die Vitalitätsstufe aber angepasst
+werden, wenn weiter Merkmale auf eine
+deutlich höhere Vitalität hinweisen, als sie
+aufgrund der Kronenarchitektur eingeschätzt
+würde. Dadurch enthält die Vitalitätsstufe ohne
+weitere Zusätze wie „altersgemäß normal” die
+abschließende Beurteilung des Baumes und die
+Gefahr der Fehlinterpretation „schlechter”
+Vitalitätsstufen bei alten Bäumen ist geringer."
+
 
 # Summary. An optional shortened abstract.
 summary = "An example talk using Academic's Markdown slides feature."
