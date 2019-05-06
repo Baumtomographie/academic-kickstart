@@ -9,8 +9,8 @@ date = 2016-04-27T00:00:00
 summary = "Aims of the project were a representative survey of the damage and the development of management recommendations to prevent damage."
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Demo"]
+# Example: `tags = ["Tree assessment", "deep-learning"]`
+tags = ["Tree assessment"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "http://example.org"

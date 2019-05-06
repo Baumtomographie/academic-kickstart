@@ -1,10 +1,10 @@
 +++
-title = "Vitalitätsbeurteilung"
+title = "Vergleich verschiedener Vitalitätskriterien – ein Praxistest"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-03-27T14:00:00
-date_end = 2019-03-27T15:15:00
+date = 2019-05-08T11:30:00
+date_end = 2019-05-08T12:15:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
@@ -50,7 +50,7 @@ Vitalitätsstufen bei alten Bäumen ist geringer."
 summary = "An example talk using Academic's Markdown slides feature."
 
 # Is this a featured talk? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
