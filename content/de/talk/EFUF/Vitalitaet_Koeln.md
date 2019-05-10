@@ -21,25 +21,7 @@ event = "European Forum on Urban Forestry"
 event_url = "https://efuf2019.wordpress.com/"
 
 # Abstract. What's your talk about?
-abstract = "This study compares two contrasting methods
-to assess the vitality of old Fagus sylvatica and
-Acer pseudoplatanus quantitatively. One
-method is based on the architecture of the
-upper part of the crown, the other uses a wide
-range of parameters, most of them related to
-the trunk. Both use anordinal scale ranging
-from 0 (best) to 3 (worst). Both methods
-were equally fast, and their results were statistically
-highly significantly correlated, albeit
-with very large scatter. Vitality based on crown
-architecture was on average 1.5 grades worse
-and explained a third of the variation of the
-other method. Crown architecture should
-remain the basis of vitality assessment. In old
-trees, where the growth of crown and trunk
-can be de-coupled, a low vitality score should
-be adjusted when the trunk shows signs of
-vigorous growth."
+abstract = "This study compares two contrasting methods to assess the vitality of old Fagus sylvatica and Acer pseudoplatanus quantitatively. One method is based on the architecture of the upper part of the crown, the other uses a wide range of parameters, most of them related to the trunk. Both use anordinal scale ranging from 0 (best) to 3 (worst). Both methods were equally fast, and their results were statistically highly significantly correlated, albeit with very large scatter. Vitality based on crown architecture was on average 1.5 grades worse and explained a third of the variation of the other method. Crown architecture should remain the basis of vitality assessment. In old trees, where the growth of crown and trunk can be de-coupled, a low vitality score should be adjusted when the trunk shows signs of vigorous growth."
 
 # Summary. An optional shortened abstract.
 summary = ""

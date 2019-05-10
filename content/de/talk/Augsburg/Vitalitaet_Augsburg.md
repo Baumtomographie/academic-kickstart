@@ -21,29 +21,7 @@ event = "Deutsche Baumpflegetage"
 event_url = "https://www.forum-baumpflege.de"
 
 # Abstract. What's your talk about?
-abstract = "Zwei Verfahren zur Beurteilung der Vitalität
-von Bäumen werden an Altbäumen verglichen.
-A. ROLOFF und U. WEIHS schätzten jeweils die
-Vitalität von 100 Berg-Ahornen und 47 Rot-
-Buchen ein. Der Zeitaufwand für beide Verfahren
-war ähnlich. Die Vitalitätsstufen der Bäume
-nach beiden Methoden hingen statistisch
-hoch signifikant, aber mit großer Streuung,
-zusammen. Dabei war die Einschätzung anhand
-der Kronenarchitektur im Mittel um 1,5
-Stufen schlechter. Die Vitalitätseinstufung von
-ROLOFF erklärte bereits ein Drittel der Streuung
-in der Einschätzung von Weihs. Die Kronenarchitektur
-sollte weiterhin die Basis der Vitalitätsbeurteilung
-sein, die Vitalitätsstufe aber angepasst
-werden, wenn weiter Merkmale auf eine
-deutlich höhere Vitalität hinweisen, als sie
-aufgrund der Kronenarchitektur eingeschätzt
-würde. Dadurch enthält die Vitalitätsstufe ohne
-weitere Zusätze wie „altersgemäß normal” die
-abschließende Beurteilung des Baumes und die
-Gefahr der Fehlinterpretation „schlechter”
-Vitalitätsstufen bei alten Bäumen ist geringer."
+abstract = "Zwei Verfahren zur Beurteilung der Vitalität von Bäumen werden an Altbäumen verglichen. A. ROLOFF und U. WEIHS schätzten jeweils die Vitalität von 100 Berg-Ahornen und 47 Rot-Buchen ein. Der Zeitaufwand für beide Verfahren war ähnlich. Die Vitalitätsstufen der Bäume nach beiden Methoden hingen statistisch hoch signifikant, aber mit großer Streuung, zusammen. Dabei war die Einschätzung anhand der Kronenarchitektur im Mittel um 1,5 Stufen schlechter. Die Vitalitätseinstufung von ROLOFF erklärte bereits ein Drittel der Streuung in der Einschätzung von Weihs. Die Kronenarchitektur sollte weiterhin die Basis der Vitalitätsbeurteilung sein, die Vitalitätsstufe aber angepasst werden, wenn weiter Merkmale auf eine deutlich höhere Vitalität hinweisen, als sie aufgrund der Kronenarchitektur eingeschätzt würde. Dadurch enthält die Vitalitätsstufe ohne weitere Zusätze wie „altersgemäß normal” die abschließende Beurteilung des Baumes und die Gefahr der Fehlinterpretation „schlechter” Vitalitätsstufen bei alten Bäumen ist geringer."
 
 
 # Summary. An optional shortened abstract.
