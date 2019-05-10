@@ -1,0 +1,11 @@
++++
+title = "Assessing the Anchorage and Critical Wind Speed of Urban Trees using Root Plate Inclination in high Winds"
+date = 2018-01-01
+authors = ["Lothar Göcke", "Steffen Rust", "Franziska Ruhl"]
+publication_types = ["2"]
+abstract = "This study demonstrates a new method to assess the anchorage of urban trees by quantitative analysis of the relationship between root-plate inclination and regional wind data. The load required for root failure correlates with loads required to achieve a specified inclination in the non-destructive range. Since load correlates with wind speed, researchers studied the reaction of urban trees in high-wind events. Specifically, researchers studied whether wind data from regional weather stations can be used to find the correlation between wind speed and root-plate inclination. More than 200 trees in 57 storms in three years were tested using tilt sensors, installed at their base. The analyses show that wind-speed data can be taken from weather stations several kilometers away from the tree. The quality of the wind speed-tilt correlation does vary, depending on local conditions and topography. The tree's reaction to wind can be extrapolated by 10 km/h beyond the measured maximum wind speed in many cases. The reliability of the extrapolation can be assessed statistically. The shape of the curve fitted to the wind and tilt data allows differentiating safe from unsafe trees in wind events of 50 to 60 km/h. The curve of trees with signs of failure in high winds was significantly different from that of the remaining trees. Based on techniques from static pulling tests, this approach can be used to estimate the wind speed at anchorage failure. While previous approaches using tilt sensors merely indicate whether a tree needs further monitoring, the result of this method is a likelihood of failure."
+featured = false
+publication = "*Arboriculture and Urban Forestry*"
+tags = ["Anchorage", "Germany", "Tree risk assessment", "Verkehrssicherheit", "Wind", "Wind load", "Windwurf", "root-plate inclination"]
++++
+
