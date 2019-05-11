@@ -1,5 +1,5 @@
 +++
-title = "New book about urban tree management HIER"
+title = "New book about urban tree management"
 subtitle = "With chapters by Prof. Steffen Rust"
 summary = "With chapters by Prof. Steffen Rust"
 date = 2016-01-07
