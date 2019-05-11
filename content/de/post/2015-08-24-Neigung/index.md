@@ -10,9 +10,7 @@ draft = false
 authors = ["Steffen Rust"]
 
 tags = ["Baumkontrolle", "Baumuntersuchung"]
-summary = "Diese Studie untersucht, ob die Stammbasisneigung von
-Bäumen mit allgemein verfügbaren, regionalen Windgeschwindigkeitsdaten
-zusammenhängt."
+summary = "Diese Studie untersucht, ob die Stammbasisneigung von Bäumen mit allgemein verfügbaren, regionalen Windgeschwindigkeitsdaten zusammenhängt."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
