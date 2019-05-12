@@ -10,9 +10,7 @@ draft = true
 authors = ["Steffen Rust"]
 
 tags = ["Baumkontrolle"]
-summary = "Ein Versorgungsschatten entsteht wohl nicht durch
-Unterversorgung durch eine Behinderung oder
-Unterbrechung des Saftstromes."
+summary = "Ein Versorgungsschatten entsteht wohl nicht durch Unterversorgung durch eine Behinderung oder Unterbrechung des Saftstromes."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
