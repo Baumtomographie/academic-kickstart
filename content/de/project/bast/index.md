@@ -6,11 +6,7 @@ title = "Bundesweite Erfassung von Stammschäden an jungen Straßenbäumen"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Seit Jahrzehnten treten an jungen Straßenbäumen
-Rindenschäden auf, deren Ursachen bisher nicht geklärt sind. Ziele des
-Vorhabens waren die Erhebung des Schadensumfanges, sowie die Ableitung
-von Maßnahmen zur Schadensvermeidung und -begrenzung. Dazu sollen die Ursachen der Stammschäden
-auf der Basis einer bundesweiten Datenerhebung analysiert werden."
+summary = "Seit Jahrzehnten treten an jungen Straßenbäumen Rindenschäden auf, deren Ursachen bisher nicht geklärt sind. Ziele des Vorhabens waren die Erhebung des Schadensumfanges, sowie die Ableitung von Maßnahmen zur Schadensvermeidung und -begrenzung. Dazu sollen die Ursachen der Stammschäden auf der Basis einer bundesweiten Datenerhebung analysiert werden."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Tree assessment", "deep-learning"]`
