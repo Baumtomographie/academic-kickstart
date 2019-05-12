@@ -1,16 +1,20 @@
 +++
 # Project title.
-title = "Nationwide survey of trunk damage to young roadside trees"
+title = "Bundesweite Erfassung von Stammschäden an jungen Straßenbäumen"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Aims of the project were a representative survey of the damage and the development of management recommendations to prevent damage."
+summary = "Seit Jahrzehnten treten an jungen Straßenbäumen
+Rindenschäden auf, deren Ursachen bisher nicht geklärt sind. Ziele des
+Vorhabens waren die Erhebung des Schadensumfanges, sowie die Ableitung
+von Maßnahmen zur Schadensvermeidung und -begrenzung. Dazu sollen die Ursachen der Stammschäden
+auf der Basis einer bundesweiten Datenerhebung analysiert werden."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Tree assessment", "deep-learning"]`
-tags = ["Tree assessment"]
+tags = ["Baumkontrolle", "Baumbiologie"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "http://example.org"
@@ -26,31 +30,21 @@ tags = ["Tree assessment"]
   focal_point = "Smart"
 +++
 
-Since more than a decade, young roadside trees throughout
-Germany have shown bark damages of unknown causes. Aims of the project
-were a representative survey of the damage and the development of
-management recommendations to prevent damage. 
-
-App. 6 % of the surveyed
-trees were damaged. 73 percent of trees did not have bark protection,
-but the percentage of trees with bark protection has increased greatly
-in recent years. Stem protection paint reduced the damage percentage by 79 percent, reed wraps by 64 percent.  Maple
-(Acer spp.) is the genus with by far the most damage-prone tree
-species. An influence of wood or bark structure on the development of
-damage can be negated. The two most frequently planted varieties of
-Norway maple, *A. platanoides* `Emerald Queen` und `Farlakes Green`,
-showed a higher degree of damage than the other varieties of this
-species.
-
-None of the examined climatic parameters had an influence on the rate of damaged trees on any given site.
-This indicates that the extreme conditions, which very probably initiate or cause this type of stem damage,
-can occur at any site within the first few years after planting. Therefore, it is recommended to employ
-preventive measures when planting roadside trees, preferably protective paints or reed mats. In order to
-reduce drought stress, roadside trees should be planted on sites with sufficient rooting space and provided
-with enough water. Since slant increases the danger of damage, correct planting and stabilization of young
-trees should ensure they stay perpendicular.
-The employment of protective stem paint or reed mats should be incorporated into important German
-guidelines on planting roadside trees: Hinweise zur Straßenbepflanzung in bebauten Gebieten (FGSV
-2006) (suggestions for planting roadside trees in urban areas), and
-RAS-LP4 (FGSV 1999) (guidelines for road building; part 4: landscaping: protection of trees, existing vegetation and animals during construction
-work).
+6 Prozent der Bäume sind durch Nekrosen oder Risse geschädigt. 73 Prozent der Bäume sind nicht mit
+einem Stammschutz versehen. Der Anteil der geschützten Bäume hat in den letzten Jahren deutlich
+zugenommen. Ein Stammanstrich verminderte die Häufigkeit von Schäden um 79 Prozent, das Anbringen
+einer Matte um 64 Prozent.
+Acer ist mit 15 Prozent Schädigungsgrad die anfälligste Baumgattung. Ringporige Eschen und Eichen sind
+genauso häufig geschädigt wie zerstreutporige Linden. Ein Einfluss der Holz- oder Rindenstruktur ist daher
+nicht nachweisbar. Die zwei am häufigsten vorgefundenen Sorten von Acer platanoides waren deutlich
+häufiger geschädigt als die anderen Bäume.
+Keine der untersuchten Klimaparameter hatten einen Einfluss auf den Anteil geschädigter Bäume an einem
+Standort. Dies weist darauf hin, dass die extremen Bedingungen, die die untersuchten Schäden
+wahrscheinlich auslösen, an jedem der Standorte im Laufe der empfindlichen ersten Jahre nach der
+Pflanzung auftreten können. Daher sollten grundsätzlich vorbeugende Maßnahmen ergriffen werden. Dies
+sind in erster Linie Stammanstriche oder Schilfrohrmatten. Zur Vermeidung von Trockenstress sollten
+Straßenbäumen mit ausreichend Wurzelraum gepflanzt und gewässert werden. Da auch die Neigung des
+Stammes das Risiko einer Schädigung erhöht, sollten durch eine fachgerechte Pflanzung und Anbindung
+der senkrechte Wuchs der Bäume sichergestellt werden.
+Stammanstriche und Schilfrohrmatten sollten in den Hinweisen zur Straßenbepflanzung in bebauten
+Gebieten, FGSV (2006), sowie in der RAS-LP4 (FGSV 1999), ergänzt werden.
