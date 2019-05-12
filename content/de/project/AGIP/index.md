@@ -6,9 +6,7 @@ title = "Städtischer Wurzelraum"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = " Der innovative Ansatz des Projekts besteht darin,
-verschiedene geophysikalische Methoden kombiniert einzusetzen, um so
-detaillierte Informationen über den baumnahen Bodenraum zu erhalten, die bei konventionellen Baumuntersuchungen nicht erfasst werden können."
+summary = " Der innovative Ansatz des Projekts besteht darin, verschiedene geophysikalische Methoden kombiniert einzusetzen, um so detaillierte Informationen über den baumnahen Bodenraum zu erhalten, die bei konventionellen Baumuntersuchungen nicht erfasst werden können."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Tree assessment", "deep-learning"]`
