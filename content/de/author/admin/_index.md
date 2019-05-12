@@ -13,8 +13,7 @@ role = "Professor für Baumkontrolle und Baumpflege"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Hochschule für angewandte Wissenschaft und
-Kunst, Göttingen", url = "www.hawk.de" } ]
+organizations = [ { name = "Hochschule für angewandte Wissenschaft und Kunst, Göttingen", url = "www.hawk.de" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Ich forsche über zerstörungsfreie Methoden zur Baumuntersuchung."
