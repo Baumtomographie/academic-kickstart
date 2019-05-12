@@ -9,23 +9,24 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Tree Assessment and Tree Care"
+role = "Professor für Baumkontrolle und Baumpflege"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Applied Science and Art, Göttingen", url = "" } ]
+organizations = [ { name = "Hochschule für angewandte Wissenschaft und
+Kunst, Göttingen", url = "www.hawk.de" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "Ich forsche über zerstörungsfreie Methoden zur Baumuntersuchung."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Tree assessment",
-  "Tree care",
-  "Tree biology"
+  "Baumkontrolle",
+  "Baumpflege",
+  "Baumuntersuchung"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,19 +35,19 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Environmental Science"
-  institution = "Brandenburg Technical University"
+  course = "Promotion in Umweltwissenschaften"
+  institution = "BTU Cottbus"
   year = 1999
 
+[[education.courses]]
+  course = "Dipl. in Forstwissenschaften"
+  institution = "Georg-August University, Göttingen"
+  year = 1993
+  
 [[education.courses]]
   course = "MSc in Forestry and its relation to land use"
   institution = "University of Oxford"
   year = 1991
-
-[[education.courses]]
-  course = "Dipl. in Forest Science"
-  institution = "Georg-August University, Göttingen"
-  year = 1993
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -82,5 +83,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Steffen Rust is a professor of tree assessment and tree care at the University of Applied Science and Art in Göttingen. His research interests include tree assessment, tree care and tree biology. He leads the Tree Assessment group, which develops and improves methods like tomography and static and dynamic load tests .
+Steffen Rust ist Professor für Baumkontrolle und Baumpflege in
+Göttingen. Er forscht über zerstörungsfreie Methoden zur Untersuchung
+der Verkehrssicherheit von Bäumen, z. B. Zugversuche,
+Schalltomographie, elektrische Widerstandstomographie, Georadar.
 
