@@ -1,5 +1,5 @@
 +++
-title = "Experimetal test of non-destructive methods to assess the anchorage of urban trees"
+title = "Experimental test of non-destructive methods to assess the anchorage of urban trees"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -40,7 +40,7 @@ tags = []
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example-slides"
+slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
 url_slides = ""
